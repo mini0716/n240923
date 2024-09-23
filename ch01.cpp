@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	cout << "¾È³ç" << endl;
+	cout << "ì•ˆë…•" << endl;
 	return 0;
 }
 */
@@ -15,12 +15,12 @@ int main()
 {
 	int a;
 	int b;
-	cout << "µÎ °³ÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä!!" << endl;
+	cout << "ë‘ ê°œì˜ ì •ìˆ˜ë¥¼ ìž…ë ¥í•˜ì„¸ìš”!!" << endl;
 	cin >> a >> b;
 	cout << a << " " << b << " " << a % b << endl;
 	return 0;
 }
-
+# ì†ŒìŠ¤ ìˆ˜ì •
 /*
 #include <iostream>
 using namespace std;
